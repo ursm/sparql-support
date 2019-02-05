@@ -1,9 +1,11 @@
-/* name:    SPARQL support
-// version: 0.9.0
-//
-// Released under the MIT license
-// Copyright (c) 2015 Yuki Moriya (DBCLS)
-// http://opensource.org/licenses/mit-license.php */
+/*!
+ * name:    SPARQL support
+ * version: 0.9.0
+ *
+ * Released under the MIT license
+ * Copyright (c) 2015 Yuki Moriya (DBCLS)
+ * http://opensource.org/licenses/mit-license.php
+ */
 
 import CodeMirror from 'codemirror/lib/codemirror';
 
